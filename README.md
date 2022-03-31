@@ -78,28 +78,17 @@ References:
 
 On Day Three of the Marathon we were required to read and study the following refference materials shared.
 
-
 1). Introduction to pandas.
 [Get Started With Pandas In 5 mins](https://medium.com/bhavaniravi/python-pandas-tutorial-92018da85a33) 
 
-
-
 2). Introduction to Numpy 
-[A complete guide on NumPy for data science](https://medium.com/nerd-for-tech/a-complete-guide-on-numpy-for-data-science-c54f47dfef8d
+[A complete guide on NumPy for data science](https://medium.com/nerd-for-tech/a-complete-guide-on-numpy-for-data-science-c54f47dfef8d)
 
-3) 
+3). [An Introduction to Matplotlib](https://www.simplilearn.com/tutorials/python-tutorial/matplotlib)
 
-3).Introduction to Matlotlib [
-An Introduction to Matplotlib](https://www.simplilearn.com/tutorials/python-tutorial/matplotlib
-)
+4). [A Beginnerâ€™s Guide to matplotlib for Data Visualization and Exploration in Python](https://medium.com/analytics-vidhya/a-beginners-guide-to-matplotlib-for-data-visualization-and-exploration-in-python-3fb32d03c3cd)
 
-4).[A Beginner’s Guide to matplotlib for Data Visualization and Exploration in Python](https://medium.com/analytics-vidhya/a-beginners-guide-to-matplotlib-for-data-visualization-and-exploration-in-python-3fb32d03c3cd
-
-4) 
-
-5).Introduction to seaborn.
-Seaborn — [A Step by Step Guide to Catch Your Audience Using Data Visualization](https://python.plainenglish.io/seaborn-a-step-by-step-guide-to-catch-your-audience-part-1-42d9e6e30bea)
-
+5).Introduction to Seaborn â€” [A Step by Step Guide to Catch Your Audience Using Data Visualization](https://python.plainenglish.io/seaborn-a-step-by-step-guide-to-catch-your-audience-part-1-42d9e6e30bea)
 
 6).[Starting with Matplotlib and Seaborn](https://medium.datadriveninvestor.com/starting-with-matplotlib-and-seaborn-cba16c7beabf)
 
@@ -119,6 +108,23 @@ I managed to cover the above resourses and practised on the below topics
 
 - Basics of Pandas in Python
 
+## Marathon Day Four :man_technologist:
 
+Day Four of the Marathon we were required to read and study the following refference materials shared.
 
+5). Understand theft to use pyforest to simply package import.[Auto Import Python Libraries](https://towardsdatascience.com/auto-import-python-libraries-d095a11b4cca) ( Using Pyforest to import important python libraries )
 
+6). Connecting Python with Postgres and Mysql :
+- [How to connect to a Postgres database with Python](https://medium.com/analytics-vidhya/how-to-setup-a-python-application-with-a-postgres-database-f965e7c1581e)
+
+- [Connect to an MySQL Database via Python](https://medium.com/codex/connect-to-an-mysql-database-via-python-9c88ceac999a)
+
+7). Introduction to Boto3, and how to work with. Python and dynamoDB data
+
+- [A Basic Introduction to Boto3](https://medium.com/swlh/a-basic-introduction-to-boto3-a66df5548475)
+
+8). What is data flattening, and how to flattens different type of data to create a data frame.
+
+- [Flattening JSON objects in Python](https://towardsdatascience.com/flattening-json-objects-in-python-f5343c794b10)
+
+- Data cleaning and the three common types of error in your data. [Reference project](https://github.com/HarunMbaabu/Data-Cleaning-With-Python)
